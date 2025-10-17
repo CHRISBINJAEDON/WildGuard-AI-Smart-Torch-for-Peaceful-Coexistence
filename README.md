@@ -8,7 +8,7 @@ India’s first youth-led, eco-friendly, AI-ready wildlife deterrent torch desig
 - Chrisbin Jaedon  
 - Chrisbin Liana  
 - Johan Danieo R  
-- Chrisbin Jeeva  
+  
 
 ## 🏫 School
 Sacred Heart International School, Tamil Nadu, India
@@ -116,7 +116,7 @@ A youth-led, AI-enhanced disaster alert system designed to protect rural and for
 - Chrisbin Jaedon  
 - Chrisbin Liana  
 - Johan Danieo R  
-- Chrisbin Jeeva  
+  
 
 ## 🏫 School
 Sacred Heart International School, Tamil Nadu, India
