@@ -43,6 +43,12 @@ git clone https://github.com/yourusername/wildguard-ai.git
 cd wildguard-ai
 ## 🎥 Prototype Demo Video
 
+
+## 🧪 Try It Out
+
+Experience WildGuard AI in action! Watch our hands-on demo showing how the torch works in real-world conditions.
+
+[![Try It Out Demo](https://img.youtube.com/vi/7do9IEBHcwQ/0.jpg)](https://youtu.be/7do9IEBHcwQ)
 Watch our WildGuard AI torch in action:
 
 [![Watch the demo](https://img.youtube.com/vi/j3lXH12fNAg/0.jpg)](https://youtu.be/j3lXH12fNAg)
