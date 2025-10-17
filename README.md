@@ -97,7 +97,7 @@ https://github.com/CHRISBINJAEDON/WildGuard-AI-Smart-Torch-for-Peaceful-Coexiste
 
 ## 🎥 Prototype Demo Video
 
-
+“This is our original field-tested demo video, filmed by our team to validate the effectiveness of WildGuard AI in real-world conditions.”
 ## 🧪 Try It Out
 
 Experience WildGuard AI in action! Watch our hands-on demo showing how the torch works in real-world conditions.
