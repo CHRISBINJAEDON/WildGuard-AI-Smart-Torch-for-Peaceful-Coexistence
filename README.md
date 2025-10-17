@@ -93,6 +93,7 @@ WildGuard AI is a handheld, rechargeable torch that:
 ---
 
 ## 📦 Repository Structure
+https://github.com/CHRISBINJAEDON/WildGuard-AI-Smart-Torch-for-Peaceful-Coexistence.git
 
 ## 🎥 Prototype Demo Video
 
