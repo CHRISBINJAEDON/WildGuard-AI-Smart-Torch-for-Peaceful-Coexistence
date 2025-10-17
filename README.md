@@ -6,7 +6,7 @@ WildGuard AI is a youth-led innovation designed to reduce human–wildlife confl
 
 ## 🚀 Project Overview
 
-- **Team**: Chrisbin Jaedon, Chrisbin Liana, Johan Danieo R, Chrisbin Jeeva  
+- **Team**: Chrisbin Jaedon, Chrisbin Liana, Johan Danieo R, 
 - **School**: Sacred Heart International School, Tamil Nadu, India  
 - **Hackathon**: Youth Coders Hack 2025  
 - **SDG Alignment**: SDG 3, 9, 11, 13, 15  
