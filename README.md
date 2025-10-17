@@ -107,3 +107,26 @@ Watch our WildGuard AI torch in action:
 
 [![Watch the demo](https://img.youtube.com/vi/j3lXH12fNAg/0.jpg)](https://youtu.be/j3lXH12fNAg)
 Let me know if you’d like help customizing the hardware schematics section, adding demo video links, or writing your `CONTRIBUTING.md` next!
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from youth innovators, wildlife experts, and ethical AI developers. Please fork the repo, submit pull requests, or reach out via [issues](https://github.com/your-repo/issues).
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌐 Connect With Us
+
+- Devpost: [Youth Coders Hack Submission](https://devpost.com/)
+- Email: wildguardai@gmail.com
+- GitHub: [github.com/your-repo](https://github.com/your-repo)
+
+---
+
