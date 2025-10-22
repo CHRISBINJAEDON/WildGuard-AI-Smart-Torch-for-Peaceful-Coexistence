@@ -68,7 +68,7 @@ WildGuard AI is a handheld, rechargeable torch that:
 - ✅ Field-tested with local communities
 - ✅ Rechargeable, reusable, and biodiversity-safe
 - ✅ SDG-aligned: Goals 3, 9, 11, 13, 15
-- ✅ Selected for AsterHacks 2025
+  
   
 
 ---
